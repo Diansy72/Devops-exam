@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Page Login Html</title>
+  <title>Landing Page</title>
 </head>
 <body>
   <h2>Login Form</h2>
